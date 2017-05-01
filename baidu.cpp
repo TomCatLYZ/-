@@ -9,6 +9,9 @@
 using namespace std;
 
 int main(){
-    cout<<"aksjlka"<<endl;
+    cout<<"aksBACSAKka"<<endl;
+    cout<<"ajsQAasksjkl"<<endl;
+    int i=0;
+    float f=0.0;
     return 0;
 }
